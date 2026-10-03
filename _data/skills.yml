@@ -1,15 +1,17 @@
 technical:
- - title: CSS and SCSS
-   level: Intermediate
- - title: HTML5
-   level: Intermediate
- - title: JavaScrpt
+ - title: SaaS Technical Support
    level: Advanced
- - title: ReactJS
-   level: Advanced
+ - title: REST API Testing with Postman
+   level: Intermediate
+ - title: n8n Workflow Automation
+   level: Intermediate
+ - title: Python
+   level: Beginner
 
 soft:
- - title: Writing
-   level: Intermediate
- - title: Leadership
-   level: Intermediate
+ - title: Problem-Solving
+   level: Advanced
+ - title: Continuous Learning
+   level: Advanced
+ - title: Collaboration
+   level: Advanced
