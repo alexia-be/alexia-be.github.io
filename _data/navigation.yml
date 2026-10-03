@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: "/"
+  - title: "My Work"
+    url: "mywork"
+  - title: "My Writing"
+    url: "mywriting"
+  - title: "About"
+    url: "/about"
+  # - title: "Sitemap"
+  #   url: /sitemap/
