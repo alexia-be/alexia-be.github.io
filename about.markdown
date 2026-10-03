@@ -13,15 +13,15 @@ I'm passionate about learning, exploring new technologies, and building practica
 
 My goal is to continue growing in the tech industry, expanding my technical knowledge, and working on projects that combine problem-solving, creativity, and technology.
 
-### What I'm Exploring
+## My Skills
+### Technical Skills
 
-* 💻 Building personal projects and documenting my learning journey.
+{% include technicalskills.md %}
 
-* 🔍 Exploring how software applications work behind the scenes.
 
-* 🚀 Learning by experimenting, creating, and solving real-world problems.
+### Soft Skills
 
-### Let's Connect!
+{% include softskills.md %}
 
 I'm always happy to connect with people in tech, exchange ideas, and learn from the community. Feel free to explore my repositories and follow my journey as I continue learning and building.
 
