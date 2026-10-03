@@ -23,5 +23,4 @@ My goal is to continue growing in the tech industry, expanding my technical know
 
 {% include softskills.md %}
 
-I'm always happy to connect with people in tech, exchange ideas, and learn from the community. Feel free to explore my repositories and follow my journey as I continue learning and building.
 
