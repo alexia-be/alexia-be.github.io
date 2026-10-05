@@ -1,4 +1,4 @@
-Alexia Be :
+Alexia Be:
   name        : "Alexia Be"
   bio         : "Let's talk about code! Reach out via the links below."
   avatar      : "/assets/images/octopus.jpg"
@@ -8,4 +8,5 @@ Alexia Be :
       url: "mailto:beealexiaa@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.mywebsite.com"
+      url: "https://www.linkedin.com/in/alexia-be"
+ 
