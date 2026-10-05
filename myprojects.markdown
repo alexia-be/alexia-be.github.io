@@ -1,6 +1,8 @@
 ---
 layout: categories_projects
 title: My Projects
+author: Alexia Be
+author_profile: true
 ---
 
 ## Welcome to my projects
