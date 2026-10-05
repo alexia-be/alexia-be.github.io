@@ -1,6 +1,6 @@
 ---
-title: "My Projects"
-layout: archive
+layout: categories_projects
+title: My Projects
 ---
 
 ## Welcome to my projects
