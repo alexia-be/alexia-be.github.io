@@ -13,6 +13,8 @@ I'm passionate about learning, exploring new technologies, and building practica
 
 My goal is to continue growing in the tech industry, expanding my technical knowledge, and working on projects that combine problem-solving, creativity, and technology.
 
+Let's connect [on LinkedIn](https://www.linkedin.com/in/alexia-be)
+
 ## My Skills
 ### Technical Skills
 

@@ -1,8 +1,8 @@
 technical:
  - title: SaaS Technical Support
    level: Advanced
- - title: REST API Testing with Postman
-   level: Intermediate
+ - title: REST API
+   level: Advanced
  - title: n8n Workflow Automation
    level: Intermediate
  - title: Python
@@ -13,5 +13,5 @@ soft:
    level: Advanced
  - title: Continuous Learning
    level: Advanced
- - title: Collaboration
+ - title: Adaptability
    level: Advanced
