@@ -1,3 +1,8 @@
 .page__footer {
     margin-top: 0;
 }
+
+.author__urls.social-icons a, .author__urls.social-icons a:visited, .page__footer a, .page__footer a:visited {
+    color: #008080;
+    font-weight: 700;
+}

@@ -6,7 +6,7 @@
     font-weight: 700;
 }
 
-@media only screen and (min-width: 900px) {
+@media only screen and (min-width: 1024px) {
     .sticky {
         top: 4em;
     }
@@ -28,5 +28,31 @@
         left: 0em;
         bottom: 0;
     }
-    
+}
+
+@media only screen and (max-width: 1023px) {
+    .sidebar {
+        background-color: #ff7417;   /* same orange as desktop, or pick another */
+        color: #efe9e2;
+        padding: 0.52em;  
+    }
+
+    .sidebar h3.author__name,
+    .sidebar .author__bio,
+    .sidebar p,
+    .sidebar li {
+        color: #efe9e2;
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+    }
+
+    /* the dropdown that opens when you tap the "Follow" button */
+    .author__urls {
+        background-color: #ff7417;
+        border-color: #efe9e2;
+    }
+
+    .author__urls:after {
+        border-color: #ff7417 transparent;   /* the little arrow on top */
+    }
 }

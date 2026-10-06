@@ -2,6 +2,8 @@
 layout: archive
 title: About
 permalink: /about/
+author: Alexia Be
+author_profile: true
 ---
 ## Hi, I'm Alexia 👋
 

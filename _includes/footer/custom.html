@@ -1,1 +1,10 @@
 <script src="/assets/js/anime.js"></script>
+
+
+
+<script>
+  // Open external links in the author sidebar (e.g. LinkedIn) in a new tab
+  document.querySelectorAll('.author__urls a[href^="http"]').forEach(function (a) {
+    a.target = '_blank';
+  });
+</script>
