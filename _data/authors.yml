@@ -1,12 +1,12 @@
 Alexia Be:
   name        : "Alexia Be"
-  bio         : "Let's talk about code! Reach out via the links below."
-  avatar      : "/assets/images/octopus.jpg"
+  bio         : "Let's connect! Reach out via Email or Linkedin."
+  avatar      : "/assets/images/alexiabe.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:beealexiaa@gmail.com"
-    - label: "Website"
+    - label: "Linkedin"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/alexia-be"
  

@@ -2,7 +2,7 @@
 layout: categories_projects
 title: My Projects
 author: Alexia Be
-author_profile: true
+author_profile: false
 ---
 
 ## Welcome to my projects

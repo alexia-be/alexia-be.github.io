@@ -6,7 +6,7 @@ layout: home
 author: Alexia Be
 author_profile: true
 ---
-![Octopus](/assets/images/octopus.jpg){: .avatar}
+
 # Hey there, I’m Alexia! 👋 
 
 I’m a Technical Support Specialist passionate about technology, problem-solving, and understanding how software works behind the scenes. I enjoy learning, building practical projects, and exploring new ideas.
