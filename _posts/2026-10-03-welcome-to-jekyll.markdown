@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: posts_projects
 title:  "Testing"
 date:   2026-10-03 00:15:20 +0000
 categories: projects
