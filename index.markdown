@@ -5,9 +5,9 @@
 layout: home
 author: Alexia Be
 author_profile: true
-hide_title: true
+title: "Welcome to my GitHub Portfolio" 
 ---
-# Hey I'm Alexia 👋
+## Hey, I'm Alexia 👋
 
 I’m a Technical Support Specialist passionate about technology, problem-solving, and understanding how software works behind the scenes. I enjoy learning, building practical projects, and exploring new ideas.
 Check out some of my favorite projects below, or visit [My Projects](/myprojects) for a categorized list.
