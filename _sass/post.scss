@@ -3,7 +3,35 @@
 }
 
 .page__hero--overlay .wrapper {
-    background-color: #0000007a;
+    background-color: #00000026;
     padding: 1em;
 }
+
+//adjusting backgrounf image
+
+@media only screen and (min-width: 900px) {
+    .page__hero--overlay {
+        background-size: 40%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-color: #f4f7f2;
+        min-height: 50vh;
+        }
+    }
+
+@media only screen and (max-width: 899px) {
+    .page__hero--overlay {
+        background-size: 50%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-color: #f4f7f2;
+        }
+    }
+
+//adjusting font color
+
+    .page__hero--overlay .page__title {
+        font-size: 2.441em;
+        color: #ff7417;
+    }
 
