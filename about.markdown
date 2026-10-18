@@ -9,13 +9,13 @@ author_profile: true
 
 I'm a Technical Support Specialist with experience supporting a SaaS e-commerce platform, troubleshooting technical issues, and helping customers solve problems involving online stores and integrations.
 
-My experience in tech support has sparked my curiosity about how software works behind the scenes, how applications communicate with each other, and how technology can solve real-world problems.
+Working in tech support sparked my curiosity about how software works behind the scenes, how applications communicate with each other, and how technology can solve real-world problems.
 
-I'm passionate about learning, exploring new technologies, and building practical projects. I enjoy understanding how things work, solving problems, and turning ideas into useful solutions.
+I'm passionate about learning and exploring new technologies. I build practical projects to grow my skills, and I enjoy the process of turning ideas into useful solutions.
 
-My goal is to continue growing in the tech industry, expanding my technical knowledge, and working on projects that combine problem-solving, creativity, and technology.
+My goal is to keep growing in the tech industry, expand my technical knowledge, and work on projects that combine problem-solving, creativity, and technology.
 
-Let's connect [on LinkedIn](https://www.linkedin.com/in/alexia-be){:target="_blank"}
+Find me on [LinkedIn](https://www.linkedin.com/in/alexia-be){:target="_blank" rel="noopener noreferrer"} or see my code on [GitHub](https://github.com/alexia-be){:target="_blank" rel="noopener noreferrer"}.
 
 ## My Skills
 ### Technical Skills

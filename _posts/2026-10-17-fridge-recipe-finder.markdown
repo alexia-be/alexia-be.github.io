@@ -5,11 +5,10 @@ date:   2026-10-03 00:15:20 +0000
 categories: projects
 highlight_home: true
 tags: APPS
-description: API project
+description: My first project
 header:
   overlay_image: /assets/images/post-fridge-recipe-finder-5.png
   teaser: /assets/images/post-fridge-recipe-finder-5.png
-  caption: "Fridge recipe finder app"
 ---
 
 
@@ -268,6 +267,10 @@ fridge-recipe-finder/
 - **Setup size:** the model needs about 6 GB of disk space. Internet is only needed for setup, because the recipes are local.
 - **Local demo only:** it runs on Flask's development server with no login, so it is not meant to be hosted.
 - **English only.**
+
+## Next goals
+- **Take a photo with the camera:** Add a camera option to the web page so you can snap your fridge directly instead of choosing a saved file. The photo would go through the same checks and the same local analysis as an uploaded one, and would still never be saved to disk.
+- **AI-generated recipes:** Right now the app only knows the 10 recipes in data/recipes.json. The plan is to also have the AI create recipe ideas from your ingredient list, so you get many more suggestions. The local recipe file would stay as the offline fallback.
 
 ## License
 
