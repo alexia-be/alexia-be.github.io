@@ -9,6 +9,6 @@ title: "Welcome to my GitHub Portfolio"
 ---
 ## Hey, I'm Alexia 👋
 
-I'm a Technical Support Specialist passionate about technology, problem-solving, and understanding how software works behind the scenes. I build practical projects to learn new skills and explore new ideas, and I enjoy every step of the process.
+I'm a Technical Support Specialist passionate about technology, problem-solving, and understanding how software works behind the scenes. I learn by building: I follow tutorials, add my own twists, and share what I learn along the way, including what broke.
 
-Check out some of my favorite projects below, or visit [My Projects](/myprojects) for a categorized list. You can also see my code on [GitHub](https://github.com/alexia-be){:target="_blank" rel="noopener noreferrer"} or connect with me on [LinkedIn](https://www.linkedin.com/in/alexia-be){:target="_blank" rel="noopener noreferrer"}
+Follow my [Learning Journey](/mylearning), browse [My Projects](/myprojects), see my code on [GitHub](https://github.com/alexia-be){:target="_blank" rel="noopener noreferrer"}, or connect with me on [LinkedIn](https://www.linkedin.com/in/alexia-be){:target="_blank" rel="noopener noreferrer"}.

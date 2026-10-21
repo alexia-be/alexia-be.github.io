@@ -11,6 +11,10 @@ I am passionate about learning, exploring new technologies, and building practic
 
 To continue growing in the tech industry, expanding my technical knowledge, and working on projects that combine problem-solving, creativity, and technology.
 
+## 🌱 My Learning Journey
+
+I learn by building. I follow tutorials and courses, then add my own twists so I really understand the process and not just the steps. I share my projects while I am still learning, including what broke and what I would do differently. Each project README says what was based on a tutorial, what I added myself, and what I learned.
+
 ## 🛠️ Skills & Expertise
 
 ### Technical Skills
