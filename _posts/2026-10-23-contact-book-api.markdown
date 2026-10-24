@@ -30,6 +30,49 @@ To learn REST APIs and Python. I followed the course *Skill Up with Python: Hand
 
 Python, Flask, VS Code, Postman
 
+## How it works
+
+1. **Set up:** I created an environment in a project folder and added a `server.py` file.
+2. **List endpoint:** I created an endpoint that returns all contacts and tested it from the browser URL.
+3. **Get one contact:** I created an endpoint that returns a specific contact by id. It returns an error message if no contact exists for that id.
+4. **Create:** I created a POST endpoint to add a contact and tested it with Postman.
+5. **Update:** I created a PUT endpoint to update a contact and tested it.
+6. **Delete:** I created a DELETE endpoint to remove a contact and tested it.
+
+## How to run it
+
+1. Clone the repo and go into the project folder:
+   ```bash
+   git clone https://github.com/alexia-be/my-learnings.git
+   cd my-learnings/contact-book-api
+   ```
+2. Create and activate a virtual environment:
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate
+   ```
+3. Install Flask:
+   ```bash
+   pip install flask
+   ```
+4. Start the server:
+   ```bash
+   python server.py
+   ```
+5. The API runs at `http://127.0.0.1:5000`.
+
+## How to use it
+
+| Action | Method | Endpoint |
+|---|---|---|
+| List all contacts | GET | `http://127.0.0.1:5000/contacts` |
+| Get one contact | GET | `http://127.0.0.1:5000/contacts/<id>` |
+| Create a contact | POST | `http://127.0.0.1:5000/contacts` |
+| Update a contact | PUT | `http://127.0.0.1:5000/contacts/<id>` |
+| Delete a contact | DELETE | `http://127.0.0.1:5000/contacts/<id>` |
+
+Replace `<id>` with the contact's id. I tested the list endpoint in the browser and the POST, PUT, and DELETE endpoints with Postman. For POST and PUT, I send the contact details in the request body (raw) with two fields: `name` and `phone`.
+
 ## What I learned
 
 - What Flask is and how to use it to create API endpoints with Python.
