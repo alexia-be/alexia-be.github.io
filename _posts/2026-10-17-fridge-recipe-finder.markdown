@@ -13,9 +13,13 @@ header:
 
 Snap your fridge, get dinner ideas.
 
+
 A small web app that looks at a photo of your fridge, works out which ingredients are in it, and suggests recipes ranked by how many of your ingredients each one uses. Everything runs on your own computer: the photo is analysed by a local AI model, is never sent over the internet, and is never saved to disk.
 
 ![Demo of Fridge Recipe Finder](/assets/images/demo-Milestone-7.gif)
+
+**Code:** [View the project on GitHub](https://github.com/alexia-be/fridge-recipe-finder){:target="_blank"}
+
 
 ## 🌱 Part of my learning journey
 
