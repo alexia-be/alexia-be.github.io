@@ -3,20 +3,20 @@ layout: posts_projects
 title:  "Contact book REST API"
 date:   2026-10-23 10:15:20 +0000
 categories: learnings
-highlight_home: true
+highlight_home: false
 tags: API
 description: My first Flask API, a small contact book I built to learn REST APIs with Python.
 header:
   overlay_image: /assets/images/contact-book-api-screenshot.png
   teaser: /assets/images/contact-book-api-screenshot.png
 ---
-Flask CRUD API.
+Flask CRUD API
 
 My first Flask API: a small contact book I built to learn REST APIs with Python.
 
-![Contact book API](/assets/images/contact-book-api-screenshot.png)
+[![Contact book API](/assets/images/contact-book-api-screenshot.png)](/assets/images/contact-book-api-screenshot.png){:target="_blank"}
 
-**Code:** [View the project on GitHub](https://github.com/alexia-be/my-learnings/tree/main/contact-book-api){:target="_blank"}
+**Code:** [View the project on GitHub](https://github.com/alexia-be/my-learnings/tree/main/01-contact-book-api){:target="_blank"}
 
 ## What it does
 
@@ -44,7 +44,7 @@ Python, Flask, VS Code, Postman
 1. Clone the repo and go into the project folder:
    ```bash
    git clone https://github.com/alexia-be/my-learnings.git
-   cd my-learnings/contact-book-api
+   cd my-learnings/01-contact-book-api
    ```
 2. Create and activate a virtual environment:
    ```bash

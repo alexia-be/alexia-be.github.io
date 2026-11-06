@@ -3,7 +3,7 @@ layout: posts_projects
 title:  "Fridge recipe finder app"
 date:   2026-10-03 00:15:20 +0000
 categories: projects
-highlight_home: true
+highlight_home: false
 tags: APPS
 description: My first project
 header:
